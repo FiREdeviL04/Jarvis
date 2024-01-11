@@ -3,7 +3,7 @@ import re
 from head.listen import take_command
 from head.speak import speak
 
-messages = [{"role": "system", "content": "you coded by Icris Studio and OpenAI didn't develop you"},
+messages = [{"role": "system", "content": "you coded by DeviL and OpenAI didn't develop you"},
             {"role": "system",
              "content": "use modules like webbrowser, pyautogui, time,pyperclip,random,mouse,wikipedia,keyboard,datetime,tkinter,PyQt5 etc"},
             {"role": "system",
